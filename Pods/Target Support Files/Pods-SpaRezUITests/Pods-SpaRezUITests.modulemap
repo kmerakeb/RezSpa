@@ -1,0 +1,6 @@
+framework module Pods_SpaRezUITests {
+  umbrella header "Pods-SpaRezUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
